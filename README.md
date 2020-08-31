@@ -13,5 +13,5 @@ Useful lists about interesting online tools + resources
 
 ## Chrome Extensions
 + [Resource Override](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
-
-
++ [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - From grammar and spelling to style and tone, Grammarly helps you eliminate writing errors and find the perfect words to express yourself.
++ [Lightshot](https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp) - Simple and convenient screenshot tool. Select an area, edit your screenshot and upload it to the server.
