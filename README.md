@@ -11,6 +11,7 @@ Useful lists about interesting online tools + resources
 + [hatchful](https://hatchful.shopify.com/) - Create stunning logos in seconds.
 + [Shields IO](https://shields.io/) - We serve fast and scalable informational images as badges for GitHub, Travis CI, Jenkins, WordPress and many more services.
 + [JSON Editor Online](https://jsoneditoronline.org/) - JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview or a code editor. You can store documents locally or in the cloud.
++ [MyBoringTools](https://myboringtools.com/) - HTML to JSON converter lets you convert HTML to JSON data structure online.
 
 ## Chrome Extensions
 + [Resource Override](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
