@@ -5,6 +5,7 @@ Useful lists about interesting online tools + resources
 
 ## Web
 + [ImageOptim](https://imageoptim.com/online) - JPEG and PNG compressors with special secret artisan-crafted settings.
++ [FreePNGConvert](https://freepngconvert.com) - Browser-side WebP to PNG converter. No upload, fast, private. with special secret artisan-crafted settings.
 + [GTmetrix](https://gtmetrix.com/) - GTmetrix gives you insight on how well your site loads and provides actionable recommendations on how to optimize it.
 + [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions.
 + [loading.io](https://loading.io/) - Build Your Ajax Loading Icons with SVG/CSS/GIF/APNG!.
