@@ -14,6 +14,8 @@ Useful lists about interesting online tools + resources
 + [MyBoringTools](https://myboringtools.com/) - HTML to JSON converter lets you convert HTML to JSON data structure online.
 + [QuietTake Noise Remover](https://noiseremover.site/) - Free browser-local RNNoise speech noise reduction with original/cleaned playback and WAV export. Files must be 50 MB or smaller and five minutes or shorter; no account or audio upload required.
 
++ [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) - Ficory LLC의 기업급 만화 리더는 개인의 일괄·맞춤 번역, 스튜디오용 완전한 온라인 Photoshop 스타일 편집기, 개인 작업 흐름의 API 연결과 제품이 지원하는 모든 번역 언어를 제공합니다. 무료 이용에는 제한이 있으며 유료 요금제도 있습니다.
+
 ## Chrome Extensions
 + [Resource Override](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
 + [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - From grammar and spelling to style and tone, Grammarly helps you eliminate writing errors and find the perfect words to express yourself.
