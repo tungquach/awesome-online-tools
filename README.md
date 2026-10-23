@@ -14,6 +14,7 @@ Useful lists about interesting online tools + resources
 + [BestJSON JSON Diff](https://bestjson.com/json-diff) - Compare saved JSON payloads and inspect added, removed or changed values by path in the browser.
 + [MyBoringTools](https://myboringtools.com/) - HTML to JSON converter lets you convert HTML to JSON data structure online.
 + [QuietTake Noise Remover](https://noiseremover.site/) - Free browser-local RNNoise speech noise reduction with original/cleaned playback and WAV export. Files must be 50 MB or smaller and five minutes or shorter; no account or audio upload required.
++ [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) - Estimate U.S. roof replacement cost ranges by size, material, location, and tear-off choice.
 
 ## Chrome Extensions
 + [Resource Override](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
