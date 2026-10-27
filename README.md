@@ -7,6 +7,7 @@ Useful lists about interesting online tools + resources
 + [ImageOptim](https://imageoptim.com/online) - JPEG and PNG compressors with special secret artisan-crafted settings.
 + [GTmetrix](https://gtmetrix.com/) - GTmetrix gives you insight on how well your site loads and provides actionable recommendations on how to optimize it.
 + [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions.
++ [ImgFlow](https://imgflow.taoliapp.com/en/) - Free in-browser image compressor/converter (HEIC, WebP, AVIF, target-size). WebAssembly local processing; nothing uploaded.
 + [loading.io](https://loading.io/) - Build Your Ajax Loading Icons with SVG/CSS/GIF/APNG!.
 + [hatchful](https://hatchful.shopify.com/) - Create stunning logos in seconds.
 + [Shields IO](https://shields.io/) - We serve fast and scalable informational images as badges for GitHub, Travis CI, Jenkins, WordPress and many more services.
