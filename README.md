@@ -4,6 +4,7 @@ Useful lists about interesting online tools + resources
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
 ## Web
++ [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) - Free script-header and body-font pairing guidance for design projects; paid fonts and workbooks are separate.
 + [ImageOptim](https://imageoptim.com/online) - JPEG and PNG compressors with special secret artisan-crafted settings.
 + [GTmetrix](https://gtmetrix.com/) - GTmetrix gives you insight on how well your site loads and provides actionable recommendations on how to optimize it.
 + [crontab guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions.
