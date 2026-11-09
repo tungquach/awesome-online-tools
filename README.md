@@ -16,6 +16,7 @@ Useful lists about interesting online tools + resources
 + [QuietTake Noise Remover](https://noiseremover.site/) - Free browser-local RNNoise speech noise reduction with original/cleaned playback and WAV export. Files must be 50 MB or smaller and five minutes or shorter; no account or audio upload required.
 + [StitchXCross](https://stitchxcross.com/) - Free cross stitch pattern maker: turn a photo into a DMC floss chart or draw one stitch by stitch, then export an unwatermarked PDF with a thread list. No account required.
 + [My Nine Games](https://myninegames.com/) - Free 3x3 game-grid maker: arrange the nine games that shaped you, add captions, export a PNG or share a link.
++ [AzerothSurvivors Build Calculator](https://azerothsurvivors.app/build-calculator/) - Free fan-made build planner for Aethus's Azeroth Survivors: plan talents, skills and equipment, save browser favorites, share editable links and export PNGs without an account.
 
 ## Chrome Extensions
 + [Resource Override](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
