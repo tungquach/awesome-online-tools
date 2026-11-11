@@ -17,6 +17,11 @@ Useful lists about interesting online tools + resources
 + [StitchXCross](https://stitchxcross.com/) - Free cross stitch pattern maker: turn a photo into a DMC floss chart or draw one stitch by stitch, then export an unwatermarked PDF with a thread list. No account required.
 + [My Nine Games](https://myninegames.com/) - Free 3x3 game-grid maker: arrange the nine games that shaped you, add captions, export a PNG or share a link.
 
++ [Free Word Counter](https://free-word-counter.web-free.site/) - Counts words, characters, sentences, paragraphs, reading time and keyword density in the browser; text is not uploaded.
++ [Free QR Code Creator](https://free-qr-code-creator.web-free.site/) - Creates styled QR codes and barcodes and can scan codes in the browser with no sign-up.
++ [Free PDF Converter](https://free-pdf-converter.web-free.site/) - Browser-based PDF toolkit (merge, split, compress, convert and related tools); processing runs locally in the browser.
++ [Free Online Calculator](https://free-online-calculator.web-free.site/en/) - Collection of everyday online calculators with instant results, no sign-up, and offline use after the page loads.
++ [Free Image Resizer](https://free-image-resizer.web-free.site/en/) - Resize, compress, crop, rotate and convert images (HEIC, WebP, PNG, JPG) in the browser without uploading files.
 ## Chrome Extensions
 + [Resource Override](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.
 + [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - From grammar and spelling to style and tone, Grammarly helps you eliminate writing errors and find the perfect words to express yourself.
