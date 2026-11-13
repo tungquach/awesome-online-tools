@@ -16,7 +16,6 @@ Useful lists about interesting online tools + resources
 + [QuietTake Noise Remover](https://noiseremover.site/) - Free browser-local RNNoise speech noise reduction with original/cleaned playback and WAV export. Files must be 50 MB or smaller and five minutes or shorter; no account or audio upload required.
 + [StitchXCross](https://stitchxcross.com/) - Free cross stitch pattern maker: turn a photo into a DMC floss chart or draw one stitch by stitch, then export an unwatermarked PDF with a thread list. No account required.
 + [My Nine Games](https://myninegames.com/) - Free 3x3 game-grid maker: arrange the nine games that shaped you, add captions, export a PNG or share a link.
-
 + [Free Word Counter](https://free-word-counter.web-free.site/) - Counts words, characters, sentences, paragraphs, reading time and keyword density in the browser; text is not uploaded.
 
 ## Chrome Extensions
